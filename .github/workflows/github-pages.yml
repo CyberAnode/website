@@ -6,7 +6,7 @@ on:
   push:
     branches:
       - main
-  on: workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   github-pages:
