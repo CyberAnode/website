@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # CyberAnode
 
 ![CyberAnode Logo](assets/cyberanode_github.png)

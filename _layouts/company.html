@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}" data-theme="dark">
+{% include head.html %}
+  <body>
+  {% include navbar.html %}
+  <div class="flex flex-col w-full border-opacity-50">
+    <div class="grid h-20 card bg-base-300 rounded-box place-items-center">{{content | markdownify}}</div>
+  </div>
+  </body>
+</html>

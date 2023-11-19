@@ -31,6 +31,7 @@ services: [
     "Software Reverse Engineering",
     "Security operations consulting",
 ]
+layout: company
 ---
 
 # Cosive Pty Ltd
