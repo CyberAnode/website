@@ -1,37 +1,30 @@
 ---
-title: "Cosive Pty Ltd"
-image: "cosive.png"
-product_categories: [
-    "Fraud Prevention",
-    "Threat Intelligence",
-    "Virtual Private Networks",
-]
-reseller: [
-    "Crowdstrike",
-    "EclecticIQ",
-    "AttackIQ",
-    "Recorded Future",
-    "INTEL 471",
-    "Team Cymru",
-    "Google Cloud",
-    "Feedly",
-    "Cado Security",
-    "Cydarm",
-    "Retrospect Labs",
-
-]
-services: [
-    "Security engineering & integration",
-    "Penetration testing",
-    "Code security assessment",
-    "Secure software development",
-    "Purple teaming",
-    "Application security testing",
-    "Training & education",
-    "Software Reverse Engineering",
-    "Security operations consulting",
-]
 layout: company
+name: "Cosive Pty Ltd"
+image: "cosive.png"
+product_categories:
+- Fraud Prevention
+- Threat Intelligence Products
+- Firewalls and Network Security
+reseller: 
+- Crowdstrike
+- EclecticIQ
+- AttackIQ
+- Recorded Future
+- INTEL 471
+- Team Cymru
+- Google Cloud
+- Feedly
+- Cado Security
+- Cydarm
+- Retrospect Labs
+services:
+- Security Engineering & Integration
+- Penetration Testing
+- Secure Software Development
+- Security Assurance Services
+- Security Education & Training
+- Security Consulting
 ---
 
 # Cosive Pty Ltd
@@ -44,7 +37,7 @@ layout: company
 :flags: Australian owned
 :flags: Private company
 
-:small_blue_diamond: [Visit site](https://www.cosive.com.au)
+:small_blue_diamond: [Visit site](https://www.cosive.com)
 
 ## Overview
 
@@ -125,7 +118,7 @@ Our services include:
 * Security software design & architecture
 * Custom cyber security dashboards & analysis
 
-### [Cyber security Training](https://www.cosive.com/cyber security-training)
+### [Cyber security Training](https://www.cosive.com/cybersecurity-training)
 
 We provide cyber security training both in-person and remotely throughout Australia and New Zealand, including to organisations in Melbourne, Sydney, Canberra, Brisbane, Darwin, Perth, Hobart, Wellington, Christchurch and Auckland.
 
@@ -137,7 +130,7 @@ Our training courses include:
 * Open source intelligence for SOC analysts
 * MISP Kickstart
 
-### [Tabletop exercises & Crisis Simulation](https://www.cosive.com/capabilities/cyber security-tabletop-exercises)
+### [Tabletop exercises & Crisis Simulation](https://www.cosive.com/capabilities/cybersecurity-tabletop-exercises)
 
 We provide realistic cyber security scenarios to test your response plans and capabilities.
 
