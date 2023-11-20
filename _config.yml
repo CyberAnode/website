@@ -2,8 +2,6 @@ url: 'https://cyberanode.github.io'
 baseurl: 'website'
 title: 'CyberAnode'
 
-plugins:
-  - jekyll-postcss-v2
 
 postcss:
   cache: false
