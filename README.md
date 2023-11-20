@@ -4,7 +4,7 @@ layout: default
 
 # CyberAnode
 
-![CyberAnode Logo](assets/cyberanode_github.png)
+![CyberAnode Logo]("assets/cyberanode banner.png")
 
 ## Introduction
 
