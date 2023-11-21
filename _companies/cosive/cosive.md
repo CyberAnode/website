@@ -27,7 +27,7 @@ services:
 - Security Consulting
 social_media_email: sales@cosive.com
 social_media_twitter: cosiveco
-social_media_linkedin: /company/cosive
+social_media_linkedin: company/cosive
 social_media_youtube: @cosive
 social_media_github: Cosive
 social_media_mastadon: infosec.exchange/@cosive
