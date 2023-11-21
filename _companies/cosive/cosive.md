@@ -1,6 +1,6 @@
 ---
 layout: company
-title: "Cosive Pty Ltd"
+name: "Cosive Pty Ltd"
 logo: "cosive.png"
 product_categories:
 - Fraud Prevention
