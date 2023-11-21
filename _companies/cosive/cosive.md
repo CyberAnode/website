@@ -25,6 +25,12 @@ services:
 - Security Assurance Services
 - Security Education & Training
 - Security Consulting
+social_media_email: sales@cosive.com
+social_media_twitter: cosiveco
+social_media_linkedin: https://www.linkedin.com/company/cosive
+social_media_youtube: @cosive
+social_media_github: Cosive
+social_media_mastadon: https://infosec.exchange/@cosive
 ---
 
 # Cosive Pty Ltd
