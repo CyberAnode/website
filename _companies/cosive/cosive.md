@@ -1,7 +1,7 @@
 ---
+title: "Cosive Pty Ltd"
+logo: "cosive.png"
 layout: company
-name: "Cosive Pty Ltd"
-image: "cosive.png"
 product_categories:
 - Fraud Prevention
 - Threat Intelligence Products
