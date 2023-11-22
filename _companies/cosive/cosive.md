@@ -1,7 +1,7 @@
 ---
 layout: company
-name: "Cosive Pty Ltd"
-logo: "cosive.png"
+title: "Cosive Pty Ltd"
+headquarters: Victoria
 product_categories:
 - Fraud Prevention
 - Threat Intelligence Products
@@ -25,24 +25,23 @@ services:
 - Security Assurance Services
 - Security Education & Training
 - Security Consulting
-social_media_email: sales@cosive.com
-social_media_twitter: cosiveco
-social_media_linkedin: cosive
-social_media_youtube: cosive
-social_media_github: Cosive
+social-media-email: sales@cosive.com
+social-media-twitter: cosiveco
+social-media-linkedin: cosive
+social-media-youtube: cosive
+social-media-github: Cosive
 ---
 
 # Cosive Pty Ltd
 
-<img src="cosive.png" width="200" />
+<img src="/assets/logos/cosive.png" alt="Company logo" width="200">
+<i class="fa fa-building" style="font-size:18px;"></i> level 10, Tower 4, World Trade Centre, 611 Flinders St, Docklands, VIC
+<br><i class="fa fa-flag" style="font-size:18px;"></i> Australian owned
+<br><i class="fa fa-exchange" style="font-size:18px;"></i> private company
 
 
-:office: LEVEL 10, TOWER 4, WORLD TRADE CENTRE, 611 FLINDERS STREET, DOCKLANDS VIC, AUSTRALIA
 
-:flags: Australian owned
-:flags: Private company
-
-:small_blue_diamond: [Visit site](https://www.cosive.com)
+[Visit site](https://www.cosive.com)
 
 ## Overview
 
