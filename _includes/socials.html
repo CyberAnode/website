@@ -1,0 +1,28 @@
+<!-- Might be good to make it a Contact us includes and add office, phone number etc. 
+This is VERY much a draft and there is no style or layout added
+-->
+
+{% if page.social-media-email %}
+<a href="mailto:{{ page.social-media-email }}" title="Email"><i class="fa fa-envelope-square" style="font-size:18px;"></i></a>
+{% endif %}
+{% if page.social-media-facebook %}
+<a href="https://www.facebook.com/{{ page.social-media-facebook }}" title="Facebook" target="_blank"><i
+        class="fa fa-facebook-square" style="font-size:18px;"></i></a>
+{% endif %}
+{% if page.social-media-twitter %}
+<a href="https://www.twitter.com/{{ page.social-media-twitter }}" title="Twitter" target="_blank"><i
+        class="fa fa-twitter-square" style="font-size:18px;"></i></a>
+{% endif %}
+{% if page.social-media-linkedin %}
+<a href="https://www.linkedin.com/compnay/{{ page.social-media-linkedin }}" title="LinkedIn" target="_blank"><i
+        class="fa fa-linkedin-square" style="font-size:18px;"></i></a>
+{% endif %}
+{% if page.social-media-youtube %}
+<a href="https://www.youtube.com/@{{ page.social-media-youtube }}" title="YouTube" target="_blank"><i
+        class="fa fa-youtube-square" style="font-size:18px;"></i></a>
+{% endif %}
+{% if page.social-media-github %}
+<a href="https://www.github.com/{{ page.social-media-github }}" title="GitHub" target="_blank"><i
+        class="fa fa-github-square" style="font-size:18px;"></i></a>
+{% endif %}
+
