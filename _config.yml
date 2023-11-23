@@ -2,6 +2,7 @@ url: 'https://cyberanode.com'
 baseurl: 'website'
 title: 'CyberAnode'
 
+description: "Your go-to directory for verified cyber security companies in Australia."
 
 postcss:
   cache: false
