@@ -31,29 +31,25 @@ social-media-linkedin: cosive
 social-media-youtube: cosive
 social-media-github: Cosive
 ---
-
-# Cosive Pty Ltd
-
+<!-- This is here now, but should move into another section so it can be on a side bar or laid out better, but for now its here -->
 <img src="/assets/logos/cosive.png" alt="Company logo" width="200">
 <i class="fa fa-building" style="font-size:18px;"></i> level 10, Tower 4, World Trade Centre, 611 Flinders St, Docklands, VIC
 <br><i class="fa fa-flag" style="font-size:18px;"></i> Australian owned
 <br><i class="fa fa-exchange" style="font-size:18px;"></i> private company
 
-
-
 [Visit site](https://www.cosive.com)
 
-## Overview
+## Who we are
 
 We provide repeatable solutions to Australasia's toughest security challenges. ​Our customers are high-profile targets with the toughest security challenges imaginable: four of the top six banks in Australia, critical infrastructure providers, technology companies, and governments.
 
 Founded in 2015, Cosive is led by industry veterans Kayne Naughton (CEO), Terry MacDonald (COO) and Chris Horsley (CTO). Our leadership team has 48 years of combined security experience.
 
-## Cyber security solutions
+## What we do
 
 We offer products and services in a number of different areas, from consulting and training, to bespoke software development and custom Cosive-developed products. We work with you to identify enhancements you can make to improve your Security Operations. We can help you integrate best-of-breed security tools into your team’s workflow. We are focused on providing threat intelligence management platforms, security orchestration, intelligence feeds, integration and consulting services, STIX/TAXII consultancy, and incident response guidance. We also offer malware analysis solutions, endpoint protection, and intelligence enrichment systems.
 
-## Product descriptions
+## Our products
 ### [Antifraud - Fraud detection software](https://www.cosive.com/capabilities/antifraud)
 
 Antifraud is fraud detection software. It provides you with a suite of behavioural biometrics and device fingerprinting data to stop fraud before it happens. It's currently supporting fraud prevention and anti-money laundering strategy at major banks.
@@ -66,7 +62,7 @@ Smokeproxy is an invisibility cloak for your security team. It’s a specialised
 
 All the benefits of MISP with the convenience of SaaS. Although MISP is extremely powerful it can be difficult and time-consuming for teams to self-host, configure, harden, maintain, and upgrade.CloudMISP is a ready-to-use MISP instance in the cloud, managed for you by a team of security experts with battle-tested MISP experience.
 
-## Services descriptions
+## Our services
 
 ### [Threat Intelligence Consulting & Engineering](https://www.cosive.com/capabilities/threat-intelligence-engineering)
 
@@ -142,3 +138,9 @@ We provide realistic cyber security scenarios to test your response plans and ca
 * We use a tabletop exercise format to ensure the exercise is appropriately contained (and doesn’t impact your actual operations). We plan and deliver the exercise in a scheduled and structured manner.
 * Your TTX facilitator will work with you to identify your objectives and to ensure that we have an understanding of the functional and/or technical aspects we are testing.
 * We use our experience in cyber security incident response to develop a realistic scenario supported by appropriate details and visual aids (exercise injects).
+
+## Our partners
+
+Get in contact with us for more information about these companies:
+
+<!--  if page.reseller placeholder  -->

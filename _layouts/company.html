@@ -3,10 +3,17 @@
 {% include head.html %}
   <body>
   {% include navbar.html %}
+
+  <!-- Page title will be the company name at the top of the page. -->
+  <h1>{{ page.title }}</h1>
+
+
   <div class="flex flex-col w-full border-opacity-50">
     <div class="grid h-20 card bg-base-300 rounded-box place-items-center">
       <!-- just putting socials here to test -->
-      {% include socials.html %}      
+      {% include socials.html %}  
+      
+      <!-- The main content for the company page -->
       {{content | markdownify}}
     </div>
   </div>
