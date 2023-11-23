@@ -18,8 +18,4 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-3VT08M0M4E"
-    anonymize_ip: false # default  
+google_analytics: "G-3VT08M0M4E"
