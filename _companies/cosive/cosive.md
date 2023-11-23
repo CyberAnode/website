@@ -1,7 +1,7 @@
 ---
 layout: company
 title: "Cosive Pty Ltd"
-headquarters: Victoria
+headquarters: VIC
 product_categories:
 - Fraud Prevention
 - Threat Intelligence Products
