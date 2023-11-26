@@ -2,15 +2,16 @@
 layout: default
 permalink: /FAQ/
 ---
-
 <details>
-    <summary>What is CyberAnode and why.</summary>
+   <summary>What is CyberAnode and why.</summary>
+    
     CyberAnode aims to address the need for a curated list of Australian owned cyber security companies that offer verified products and services. We prioritise accuracy and transparency to ensure that users can confidently choose the right cyber security partner for their specific needs.
 </details>
 
 <details>
-    <summary>What if I have multiple products and services?</summary>
-        There are some companies that are going to have a large number of diverse products and services. For these companies we suggest splitting up the listings, for example if you run a Managed detection and Response business and also IR consulting, then its probably best to create two listings to ensure enough details can be provided to the users. If you unsure, just ask us and we'll let you know what we advise.
+     <summary>What if I have multiple products and services?</summary>
+       
+    There are some companies that are going to have a large number of diverse products and services. For these companies we suggest splitting up the listings, for example if you run a Managed detection and Response business and also IR consulting, then its probably best to create two listings to ensure enough details can be provided to the users. If you unsure, just ask us and we'll let you know what we advise.
 </details>
 
 <details>
@@ -27,15 +28,25 @@ permalink: /FAQ/
 </details>
 
 <details>
-    <summary>Why should I list my Company?</summary>
-
+   <summary>Why should I list my Company?</summary>
+   
+    To have a one location for all Australian cyber companies providing products and services.
 </details>
 
 <details>
-    <summary>How, and when should I update my company details?</summary>
+   <summary>How, and when should I update my company details?</summary>
+
+    Annually or after a major change like a acquisition.
+    
     <h3>How</h3>
     Create a PR and update your company listing and add to the pending-company-listing folder for review and publishing.
     <h3>When</h3>
 
+
+</details>
+<details>
+    <summary>What is the cost?</summary>
+   
+    There is no cost to appear in the directory. 
 
 </details>
